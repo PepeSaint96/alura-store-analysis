@@ -32,6 +32,8 @@ Analizar los datos de 4 tiendas de Alura Store para:
 - Archivos CSV cargados desde GitHub mediante enlaces RAW
 
 ---
+> ⚠️ **Nota**: Debido al uso de `ipywidgets` para la visualización interactiva de los gráficos, la vista previa del notebook no es compatible con el renderizador de GitHub.  
+> Para ver el notebook en funcionamiento completo, se recomienda abrirlo directamente en [Google Colab](https://colab.research.google.com/) o Jupyter Notebook.
 
 ## 📈 Análisis realizados
 
