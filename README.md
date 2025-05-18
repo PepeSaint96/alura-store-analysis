@@ -75,5 +75,5 @@ El análisis permite tomar una decisión estratégica y justificada basada en da
 
 ## 👨‍💻 Autor
 
-[Jose Manuel Santiago Cecilio]  
+Jose Manuel Santiago Cecilio  
 Proyecto realizado como parte del curso de Ciencia de Datos en Alura Latam.
